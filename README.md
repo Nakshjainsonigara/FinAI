@@ -39,3 +39,7 @@ https://github.com/user-attachments/assets/2ae36bf7-7d65-4b2f-9a3a-17be2f37306c
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/ai-financial-assistant.git
+  
+<br>
+
+> **Note:** This project was built for the **Bit N Built 24 Hour Hackathon** and is currently in the development stage for full deployment. Until then, you can watch the demo.
