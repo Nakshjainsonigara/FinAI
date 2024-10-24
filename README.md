@@ -32,7 +32,7 @@ The AI Financial Assistant is a web-based application designed to provide users 
 
 ## FinAI Demo Video
 
-https://github.com/user-attachments/assets/2ae36bf7-7d65-4b2f-9a3a-17be2f37306c
+https://github.com/user-attachments/assets/aadbdfcc-4bcb-4e77-8bfb-c6c237b851f1
 
 ## Installation
 
