@@ -30,11 +30,9 @@ The AI Financial Assistant is a web-based application designed to provide users 
   - Docker for containerization
   - AWS or Heroku for hosting the application
 
-## Demo Video
+## FinAI Demo Video
 
-[![Watch the Demo]()](https://drive.google.com/file/d/1cp3FZ5-jDIf9FKPkZbqhvo_nI_0tppcH/view?usp=sharing)
-
-*Click the image to watch the demo of the AI Financial Assistant.*
+https://github.com/user-attachments/assets/2ae36bf7-7d65-4b2f-9a3a-17be2f37306c
 
 ## Installation
 
