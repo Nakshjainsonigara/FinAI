@@ -7,7 +7,7 @@ CORS(app)  # Enable CORS to allow requests from React frontend
 app.secret_key = 'your_secret_key'
 
 # Configure Gemini API
-genai.configure(api_key='AIzaSyBdSGEebbWsGuVXEbkCdmUN_pw37-VQ2zY')
+genai.configure(api_key='your_api_key')
 
 # Generation settings for Gemini
 generation_config = {
