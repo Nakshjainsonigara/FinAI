@@ -33,13 +33,3 @@ The AI Financial Assistant is a web-based application designed to provide users 
 ## FinAI Demo Video
 
 https://github.com/user-attachments/assets/aadbdfcc-4bcb-4e77-8bfb-c6c237b851f1
-
-## Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/ai-financial-assistant.git
-  
-<br>
-
-> **Note:** This project was built for the **Bit N Built 24 Hour Hackathon** and is currently in the development stage for full deployment. Until then, you can watch the demo.
